@@ -1,0 +1,49 @@
+{
+  "cards": [
+    {
+      "titulo": "Deadpool",
+      "categoria": "Front end",
+      "imagen": "img/deadpool.jpg",
+      "descripcion": "El nuevo trailer de Deadpool wuuu",
+      "video": "https://www.youtube.com/watch?v=kxyyKU8rgaU",
+      "id": "9cff1708-00df-44f5-b669-cdc7e5566c6c"
+    },
+    {
+      "id": "5139e66c-1d61-42f3-9532-300baa1b6cb6",
+      "titulo": "sdf ad fd f",
+      "categoria": "Back end",
+      "imagen": "img/deadpool.jpg",
+      "descripcion": "as dfas fd ",
+      "video": " sadf asdf a"
+    },
+    {
+      "id": "8061f5bd-f0bf-40d8-9046-269c4f28297e",
+      "titulo": "titulo a borrar",
+      "categoria": "Innovación y gestión",
+      "imagen": "img/deadpool.jpg",
+      "descripcion": "sin dato",
+      "video": "culaquier video"
+    },
+    {
+      "titulo": "aledfdf",
+      "categoria": "Innovación y gestión",
+      "imagen": "img/deadpool.jpg",
+      "descripcion": "fdfdfd",
+      "video": "dfdfdf",
+      "id": "75c3f34c-eb0e-43e0-8b5d-4425895ceed2"
+    },
+    {
+      "id": "3fc83619-48dc-4c59-8e30-1767c69ed003",
+      "titulo": "jeans",
+      "categoria": "Front end",
+      "imagen": "img/deadpool.jpg",
+      "descripcion": "vgvgvgvgv",
+      "video": "https://"
+    }
+  ],
+  "categorias": [
+    "Front end",
+    "Back end",
+    "Innovación y gestión"
+  ]
+}
